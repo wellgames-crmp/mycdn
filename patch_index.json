@@ -1,13 +1,1215 @@
-[
-  {
-    "name": "game.zip.001",
-    "size": 1782579200,
-    "hash": "138e6e63c1191ab623f814e6fd392f1c"
-  },
-  {
-    "name": "game.zip.002",
-    "size": 1672837885,
-    "hash": "d166a8431e62a5d4259bfa3b0686837d"
-  }
-]
-
+{
+    "files": [
+        {
+            "crc_xxhashct": 352682632,
+            "filesize": 119394285,
+            "link": "files",
+            "path": "audio/audiostream/streams.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3105390487,
+            "filesize": 7322641,
+            "link": "files",
+            "path": "audio/samples/GENERIC.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 16816339,
+            "filesize": 162767,
+            "link": "files",
+            "path": "audio/samples/STEPS.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3744001288,
+            "filesize": 60881542,
+            "link": "files",
+            "path": "audio/samples/VEHICLE.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 122644753,
+            "filesize": 7023013,
+            "link": "files",
+            "path": "common.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 46947589,
+            "filesize": 0,
+            "link": "files",
+            "path": "date_marker_35173_1c6401b8_1792677740394",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2221514904,
+            "filesize": 4051251,
+            "link": "files",
+            "path": "gui.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 663262861,
+            "filesize": 459745,
+            "link": "files",
+            "path": "jsons/client-jsons.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3397317140,
+            "filesize": 435444,
+            "link": "files",
+            "path": "jsons/en/client-jsons.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4179343829,
+            "filesize": 438503,
+            "link": "files",
+            "path": "jsons/pt-br/client-jsons.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1607927598,
+            "filesize": 116378621,
+            "link": "files",
+            "path": "launcher.apk",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 650645697,
+            "filesize": 1101697,
+            "link": "files",
+            "path": "launcher.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2892910427,
+            "filesize": 3424044,
+            "link": "files",
+            "path": "mesh/BugFix.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2133505005,
+            "filesize": 202348,
+            "link": "files",
+            "path": "mesh/DLC_Autumn.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1881087594,
+            "filesize": 5007847,
+            "link": "files",
+            "path": "mesh/DLC_Casino.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 586208319,
+            "filesize": 8752908,
+            "link": "files",
+            "path": "mesh/DLC_PortJob.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3843612100,
+            "filesize": 1089606,
+            "link": "files",
+            "path": "mesh/Event_9may26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 295403543,
+            "filesize": 510228,
+            "link": "files",
+            "path": "mesh/Event_BP23_tfs.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2730621019,
+            "filesize": 626630,
+            "link": "files",
+            "path": "mesh/Event_BP27.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 961728066,
+            "filesize": 471577,
+            "link": "files",
+            "path": "mesh/Event_BP28.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2377461341,
+            "filesize": 403323,
+            "link": "files",
+            "path": "mesh/Event_BP29.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2591451731,
+            "filesize": 616193,
+            "link": "files",
+            "path": "mesh/Event_BP30.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3023819161,
+            "filesize": 9659602,
+            "link": "files",
+            "path": "mesh/Event_Cyberfarm.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1946476291,
+            "filesize": 348984,
+            "link": "files",
+            "path": "mesh/Event_Grom.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1962651716,
+            "filesize": 19114983,
+            "link": "files",
+            "path": "mesh/Event_H25.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 541260953,
+            "filesize": 2443181,
+            "link": "files",
+            "path": "mesh/Event_H25_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2003445457,
+            "filesize": 16902713,
+            "link": "files",
+            "path": "mesh/Event_Halloween26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1687761255,
+            "filesize": 31213080,
+            "link": "files",
+            "path": "mesh/Event_NY26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3681121168,
+            "filesize": 12690433,
+            "link": "files",
+            "path": "mesh/Event_NY26_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3161183183,
+            "filesize": 4147044,
+            "link": "files",
+            "path": "mesh/Event_Quest1.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1860113805,
+            "filesize": 25621651,
+            "link": "files",
+            "path": "mesh/Event_Quest2.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1244326150,
+            "filesize": 638486,
+            "link": "files",
+            "path": "mesh/Event_Quest3.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3069293200,
+            "filesize": 54267,
+            "link": "files",
+            "path": "mesh/Event_Quest4.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1260362933,
+            "filesize": 568042,
+            "link": "files",
+            "path": "mesh/Event_Quest5.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3156056340,
+            "filesize": 35728,
+            "link": "files",
+            "path": "mesh/Event_Quest_Port_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2017465613,
+            "filesize": 117315,
+            "link": "files",
+            "path": "mesh/Event_Season1.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4265660138,
+            "filesize": 8234992,
+            "link": "files",
+            "path": "mesh/Event_Season4.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1644095857,
+            "filesize": 934568,
+            "link": "files",
+            "path": "mesh/Event_Season5.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 355737523,
+            "filesize": 761112,
+            "link": "files",
+            "path": "mesh/Event_Season6.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2259373833,
+            "filesize": 2529267,
+            "link": "files",
+            "path": "mesh/Event_Valentin26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 428545785,
+            "filesize": 20057,
+            "link": "files",
+            "path": "mesh/Event_Valentin26_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2542780804,
+            "filesize": 92673,
+            "link": "files",
+            "path": "mesh/Event_World_Cup.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3093742981,
+            "filesize": 2321,
+            "link": "files",
+            "path": "mesh/FTUE.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 362468694,
+            "filesize": 3957925,
+            "link": "files",
+            "path": "mesh/Gun_store.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3320317267,
+            "filesize": 5776030,
+            "link": "files",
+            "path": "mesh/Interiors.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2948059069,
+            "filesize": 97224918,
+            "link": "files",
+            "path": "mesh/Level_Garel.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 78272783,
+            "filesize": 3626285,
+            "link": "files",
+            "path": "mesh/Revert_NY26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2432952934,
+            "filesize": 267412233,
+            "link": "files",
+            "path": "mesh/Roads3-0.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3433391121,
+            "filesize": 10306731,
+            "link": "files",
+            "path": "mesh/br_accessories_01.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2095372627,
+            "filesize": 4880560,
+            "link": "files",
+            "path": "mesh/br_anim.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3203183677,
+            "filesize": 12674899,
+            "link": "files",
+            "path": "mesh/br_bp_events.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 694771358,
+            "filesize": 283512050,
+            "link": "files",
+            "path": "mesh/br_cars_01.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 780524038,
+            "filesize": 34819158,
+            "link": "files",
+            "path": "mesh/br_collision.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3739549546,
+            "filesize": 39108,
+            "link": "files",
+            "path": "mesh/br_common.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2486000290,
+            "filesize": 85126099,
+            "link": "files",
+            "path": "mesh/br_hotfix.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3627478308,
+            "filesize": 583373,
+            "link": "files",
+            "path": "mesh/br_legacy_smp.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2901759776,
+            "filesize": 63998696,
+            "link": "files",
+            "path": "mesh/br_map_00.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1631976499,
+            "filesize": 101623352,
+            "link": "files",
+            "path": "mesh/br_map_01.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1272599628,
+            "filesize": 166327797,
+            "link": "files",
+            "path": "mesh/br_map_02.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3040348039,
+            "filesize": 17389402,
+            "link": "files",
+            "path": "mesh/br_racetrack.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 892190813,
+            "filesize": 133550934,
+            "link": "files",
+            "path": "mesh/br_skins_01.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2172366638,
+            "filesize": 226146,
+            "link": "files",
+            "path": "resources/images/accessories/img_event_item_9may.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2432692987,
+            "filesize": 173108,
+            "link": "files",
+            "path": "resources/images/accessories/img_vinyl_9may.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3287835247,
+            "filesize": 3975278,
+            "link": "files",
+            "path": "resources/images/backgrounds/bg_start_screen.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3343278133,
+            "filesize": 219628,
+            "link": "files",
+            "path": "resources/images/pictures/img_100378.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3493741715,
+            "filesize": 494179,
+            "link": "files",
+            "path": "resources/images/pictures/img_case_event20.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2396746989,
+            "filesize": 483200,
+            "link": "files",
+            "path": "resources/images/pictures/img_case_event21.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3778899728,
+            "filesize": 105829,
+            "link": "files",
+            "path": "resources/images/pictures/img_main_raceDerby.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2154339494,
+            "filesize": 173849,
+            "link": "files",
+            "path": "resources/images/pictures/img_raceDerby.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1403835363,
+            "filesize": 6027,
+            "link": "files",
+            "path": "resources/images/pictures/logobrtashkent.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1027549668,
+            "filesize": 10027867,
+            "link": "files",
+            "path": "resources/video/launcher_video.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3223910181,
+            "filesize": 97919563,
+            "link": "files",
+            "path": "resources/video/video.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2388912228,
+            "filesize": 4300,
+            "link": "files",
+            "path": "text.py",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4140973266,
+            "filesize": 1037766,
+            "link": "files",
+            "path": "textures/BugFix.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 936029086,
+            "filesize": 4479,
+            "link": "files",
+            "path": "textures/BugFix.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 234640709,
+            "filesize": 12765256,
+            "link": "files",
+            "path": "textures/Characters.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1753870789,
+            "filesize": 21436,
+            "link": "files",
+            "path": "textures/Characters.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1499145093,
+            "filesize": 3235422,
+            "link": "files",
+            "path": "textures/DLC_Autumn.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1456261407,
+            "filesize": 16341,
+            "link": "files",
+            "path": "textures/DLC_Autumn.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3889228974,
+            "filesize": 13207716,
+            "link": "files",
+            "path": "textures/DLC_Casino.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 150763440,
+            "filesize": 40717,
+            "link": "files",
+            "path": "textures/DLC_Casino.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 844495350,
+            "filesize": 3302775,
+            "link": "files",
+            "path": "textures/DLC_PortJob.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2359779707,
+            "filesize": 8878,
+            "link": "files",
+            "path": "textures/DLC_PortJob.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1241594320,
+            "filesize": 704072,
+            "link": "files",
+            "path": "textures/Event_BP23_tfs.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 391696909,
+            "filesize": 2062,
+            "link": "files",
+            "path": "textures/Event_BP23_tfs.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1903206334,
+            "filesize": 734633,
+            "link": "files",
+            "path": "textures/Event_BP27.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2956669206,
+            "filesize": 3811,
+            "link": "files",
+            "path": "textures/Event_BP27.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 422923023,
+            "filesize": 532538,
+            "link": "files",
+            "path": "textures/Event_BP28.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 229102502,
+            "filesize": 2484,
+            "link": "files",
+            "path": "textures/Event_BP28.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1437498734,
+            "filesize": 484665,
+            "link": "files",
+            "path": "textures/Event_BP29.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 886143763,
+            "filesize": 2198,
+            "link": "files",
+            "path": "textures/Event_BP29.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4073106695,
+            "filesize": 765857,
+            "link": "files",
+            "path": "textures/Event_BP30.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 934854170,
+            "filesize": 4965,
+            "link": "files",
+            "path": "textures/Event_BP30.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2778307764,
+            "filesize": 7771079,
+            "link": "files",
+            "path": "textures/Event_Cyberfarm.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 569572712,
+            "filesize": 19488,
+            "link": "files",
+            "path": "textures/Event_Cyberfarm.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 5822273,
+            "filesize": 534629,
+            "link": "files",
+            "path": "textures/Event_Grom.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2181740910,
+            "filesize": 2003,
+            "link": "files",
+            "path": "textures/Event_Grom.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2772020324,
+            "filesize": 9518559,
+            "link": "files",
+            "path": "textures/Event_H25.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3772994872,
+            "filesize": 19096,
+            "link": "files",
+            "path": "textures/Event_H25.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 67841165,
+            "filesize": 13208508,
+            "link": "files",
+            "path": "textures/Event_Halloween26.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2392632797,
+            "filesize": 37491,
+            "link": "files",
+            "path": "textures/Event_Halloween26.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 419784754,
+            "filesize": 6748508,
+            "link": "files",
+            "path": "textures/Event_NY26.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2221280811,
+            "filesize": 22511,
+            "link": "files",
+            "path": "textures/Event_NY26.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3019530700,
+            "filesize": 2225352,
+            "link": "files",
+            "path": "textures/Event_Quest1.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3843855695,
+            "filesize": 5079,
+            "link": "files",
+            "path": "textures/Event_Quest1.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3055485257,
+            "filesize": 11096872,
+            "link": "files",
+            "path": "textures/Event_Quest2.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 653822304,
+            "filesize": 33119,
+            "link": "files",
+            "path": "textures/Event_Quest2.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1675549851,
+            "filesize": 329013,
+            "link": "files",
+            "path": "textures/Event_Quest3.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4156298222,
+            "filesize": 3277,
+            "link": "files",
+            "path": "textures/Event_Quest3.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1784153560,
+            "filesize": 112855,
+            "link": "files",
+            "path": "textures/Event_Quest4.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3019403851,
+            "filesize": 463,
+            "link": "files",
+            "path": "textures/Event_Quest4.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3406091879,
+            "filesize": 167546,
+            "link": "files",
+            "path": "textures/Event_Quest5.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2449702005,
+            "filesize": 2211,
+            "link": "files",
+            "path": "textures/Event_Quest5.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 396569842,
+            "filesize": 192981,
+            "link": "files",
+            "path": "textures/Event_Season1.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1593873963,
+            "filesize": 679,
+            "link": "files",
+            "path": "textures/Event_Season1.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 673103333,
+            "filesize": 1036058,
+            "link": "files",
+            "path": "textures/Event_Season4.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2820845560,
+            "filesize": 2957,
+            "link": "files",
+            "path": "textures/Event_Season4.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 429917408,
+            "filesize": 1107929,
+            "link": "files",
+            "path": "textures/Event_Season5.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2155419906,
+            "filesize": 3896,
+            "link": "files",
+            "path": "textures/Event_Season5.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3248526604,
+            "filesize": 1231928,
+            "link": "files",
+            "path": "textures/Event_Season6.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 533122887,
+            "filesize": 4842,
+            "link": "files",
+            "path": "textures/Event_Season6.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 547517454,
+            "filesize": 1175258,
+            "link": "files",
+            "path": "textures/Event_Valentin26.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3401822345,
+            "filesize": 1802,
+            "link": "files",
+            "path": "textures/Event_Valentin26.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 201596149,
+            "filesize": 79807,
+            "link": "files",
+            "path": "textures/Event_World_Cup.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3353479869,
+            "filesize": 701,
+            "link": "files",
+            "path": "textures/Event_World_Cup.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3618823135,
+            "filesize": 4372935,
+            "link": "files",
+            "path": "textures/Gun_store.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4065029710,
+            "filesize": 9317,
+            "link": "files",
+            "path": "textures/Gun_store.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 114800859,
+            "filesize": 33462932,
+            "link": "files",
+            "path": "textures/Interiors.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1619492381,
+            "filesize": 12957,
+            "link": "files",
+            "path": "textures/Interiors.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1616236966,
+            "filesize": 35503254,
+            "link": "files",
+            "path": "textures/Level_Garel.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 535692921,
+            "filesize": 71547,
+            "link": "files",
+            "path": "textures/Level_Garel.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3911927869,
+            "filesize": 106146605,
+            "link": "files",
+            "path": "textures/Roads3-0.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3419908825,
+            "filesize": 727502,
+            "link": "files",
+            "path": "textures/Roads3-0.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3299550073,
+            "filesize": 17362684,
+            "link": "files",
+            "path": "textures/br_bp_events.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3689084266,
+            "filesize": 33755,
+            "link": "files",
+            "path": "textures/br_bp_events.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2334348722,
+            "filesize": 154096660,
+            "link": "files",
+            "path": "textures/br_tex_01.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3995105659,
+            "filesize": 1301475,
+            "link": "files",
+            "path": "textures/br_tex_01.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1948601883,
+            "filesize": 53459137,
+            "link": "files",
+            "path": "textures/br_tex_02.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 161285497,
+            "filesize": 151487,
+            "link": "files",
+            "path": "textures/br_tex_02.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2605968425,
+            "filesize": 35763340,
+            "link": "files",
+            "path": "textures/br_tex_LOD_01.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1579717891,
+            "filesize": 171604,
+            "link": "files",
+            "path": "textures/br_tex_LOD_01.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4137870636,
+            "filesize": 13776699,
+            "link": "files",
+            "path": "textures/br_tex_acc_01.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4119310022,
+            "filesize": 98399,
+            "link": "files",
+            "path": "textures/br_tex_acc_01.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 78149713,
+            "filesize": 109486887,
+            "link": "files",
+            "path": "textures/br_tex_cars_01.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4242874263,
+            "filesize": 430403,
+            "link": "files",
+            "path": "textures/br_tex_cars_01.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1502664968,
+            "filesize": 32563,
+            "link": "files",
+            "path": "textures/br_tex_cars_winter.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1346215004,
+            "filesize": 253,
+            "link": "files",
+            "path": "textures/br_tex_cars_winter.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2045006580,
+            "filesize": 246444,
+            "link": "files",
+            "path": "textures/br_tex_generic.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3773344059,
+            "filesize": 14557,
+            "link": "files",
+            "path": "textures/br_tex_generic.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1007988425,
+            "filesize": 49475135,
+            "link": "files",
+            "path": "textures/br_tex_gui.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3772004935,
+            "filesize": 366614,
+            "link": "files",
+            "path": "textures/br_tex_gui.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3879909151,
+            "filesize": 95115386,
+            "link": "files",
+            "path": "textures/br_tex_interiors.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4181638844,
+            "filesize": 337834,
+            "link": "files",
+            "path": "textures/br_tex_interiors.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4058027829,
+            "filesize": 755142,
+            "link": "files",
+            "path": "textures/br_tex_legacy_smp.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 824368005,
+            "filesize": 29501,
+            "link": "files",
+            "path": "textures/br_tex_legacy_smp.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1038472291,
+            "filesize": 95726952,
+            "link": "files",
+            "path": "textures/br_tex_main.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 654651811,
+            "filesize": 953083,
+            "link": "files",
+            "path": "textures/br_tex_main.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 756978544,
+            "filesize": 18440819,
+            "link": "files",
+            "path": "textures/br_tex_mobile.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 764093323,
+            "filesize": 319730,
+            "link": "files",
+            "path": "textures/br_tex_mobile.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3034801363,
+            "filesize": 9856047,
+            "link": "files",
+            "path": "textures/br_tex_patent.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3692683564,
+            "filesize": 66298,
+            "link": "files",
+            "path": "textures/br_tex_patent.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2276670602,
+            "filesize": 15392169,
+            "link": "files",
+            "path": "textures/br_tex_racetrack.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4112421214,
+            "filesize": 50350,
+            "link": "files",
+            "path": "textures/br_tex_racetrack.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3131051871,
+            "filesize": 127325376,
+            "link": "files",
+            "path": "textures/br_tex_skins_01.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4208092623,
+            "filesize": 494205,
+            "link": "files",
+            "path": "textures/br_tex_skins_01.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1919996520,
+            "filesize": 1405100,
+            "link": "files",
+            "path": "textures/br_tex_txd.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3304494598,
+            "filesize": 26988,
+            "link": "files",
+            "path": "textures/br_tex_txd.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2823319924,
+            "filesize": 26426508,
+            "link": "files",
+            "path": "textures/br_tex_uzniy.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3135914527,
+            "filesize": 66967,
+            "link": "files",
+            "path": "textures/br_tex_uzniy.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2301722758,
+            "filesize": 1818190,
+            "link": "files",
+            "path": "textures/event_9may_25.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4243925386,
+            "filesize": 2956,
+            "link": "files",
+            "path": "textures/event_9may_25.astc.bpc.tmb",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1581954101,
+            "filesize": 542696793,
+            "link": "files",
+            "path": "textures/gui_textures.astc.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 115618848,
+            "filesize": 1063367,
+            "link": "files",
+            "path": "textures/gui_textures.astc.bpc.tmb",
+            "rule_file": "base"
+        }
+    ]
+}
